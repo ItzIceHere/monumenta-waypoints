@@ -1,13 +1,13 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "release_date": "2026-10-14",
-  "download_url": "https://raw.githubusercontent.com/ItzIceHere/monumenta-waypoints/main/Monumenta-Unofficial-Waypoints-1.0.1.jar",
+  "download_url": "https://raw.githubusercontent.com/ItzIceHere/monumenta-waypoints/main/Monumenta-Unofficial-Waypoints-1.0.2.jar",
   "database_version": "1.0.0",
   "database_url": "https://raw.githubusercontent.com/ItzIceHere/monumenta-waypoints/main/waypoints.json",
   "changelog": [
-    "Corretto il token del Webhook Discord per notifiche garantite di login e disconnessione",
-    "Aggiunto salvataggio locale persistente per tester in .minecraft/config/monumentawaypoints/collector_logs",
-    "Ottimizzazione boss detection ed eliminazione notifiche HUD per massima discrezione",
-    "Database completo con 2,733 waypoint sincronizzate per Monumenta"
+    "Auto-updater automatico in background all'avvio con avviso visivo in TitleScreen, HUD e chat",
+    "Sostituzione sicura del JAR tramite script di terminazione differita senza conflitti di file lock",
+    "Pulsante one-click 'RIAVVIA ORA' per applicare istantaneamente gli aggiornamenti",
+    "Corretto token Webhook Discord e persistenza locale di emergenza dei log tester"
   ]
 }
