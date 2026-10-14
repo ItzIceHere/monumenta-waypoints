@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "release_date": "2026-10-14",
+  "download_url": "https://raw.githubusercontent.com/ItzIceHere/monumenta-waypoints/main/Monumenta-Unofficial-Waypoints-1.0.0.jar",
+  "database_version": "1.0.0",
+  "database_url": "https://raw.githubusercontent.com/ItzIceHere/monumenta-waypoints/main/waypoints.json",
+  "changelog": [
+    "Database completo con 2,733 waypoint sincronizzate per Monumenta (NPC, POI, Dungeon, Boss, Segreti, Shrines)",
+    "Prestazioni ultra-leggere a 144+ FPS con culling a 360° per hardware modesto",
+    "Auto-updater integrato con notifica in chat, download con un clic e riavvio guidato",
+    "Sincronizzazione in tempo reale del database dei waypoint da GitHub all'avvio",
+    "GPS ribbon dinamico, tracking simultaneo multi-target e avanzamento automatico quest"
+  ]
+}
