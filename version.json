@@ -1,13 +1,14 @@
 {
   "version": "1.0.2",
-  "release_date": "2026-10-14",
+  "release_date": "2026-10-26",
   "download_url": "https://raw.githubusercontent.com/ItzIceHere/monumenta-waypoints/main/Monumenta-Unofficial-Waypoints-1.0.2.jar",
-  "database_version": "1.0.0",
+  "database_version": "1.1.0",
   "database_url": "https://raw.githubusercontent.com/ItzIceHere/monumenta-waypoints/main/waypoints.json",
   "changelog": [
-    "Auto-updater automatico in background all'avvio con avviso visivo in TitleScreen, HUD e chat",
-    "Sostituzione sicura del JAR tramite script di terminazione differita senza conflitti di file lock",
-    "Pulsante one-click 'RIAVVIA ORA' per applicare istantaneamente gli aggiornamenti",
-    "Corretto token Webhook Discord e persistenza locale di emergenza dei log tester"
+    "Corretta la questline Mage's Legacy: ritorno da Vargos all'Accademia prima di Bhairavi e decrittazione nella Cripta (-109, 95, -151)",
+    "Aggiunta mappatura dettagliata della prima metà del dungeon White Wool (leve cancelli, safe zone, biblioteca, Rhella, proiezione di Bhairavi)",
+    "Aggiunti NPC studiosi della Cripta di Nyr (Archmage Valgus, Qatra Syncos, Gwain Namu, Calder, ecc.)",
+    "Calibrazione di precisione coordinate ologrammi POI (Swamp Sinkhole, Waterfall Island, Ruined Mansion, Mysterious Cenote, Tlaxan Ziggurat)",
+    "Nuovi waypoint per Winds of War con progressione continua verso il White Wool Dungeon"
   ]
 }

@@ -3818,8 +3818,8 @@
     "category": "POIs",
     "coordinates": {
       "x": 159.0,
-      "y": 123.0,
-      "z": -78.0
+      "y": 126.0,
+      "z": -73.0
     },
     "shard": "King's Valley",
     "region": "Blackroot Jungle",
@@ -3837,8 +3837,8 @@
     "linear": true,
     "prerequisite_item": null,
     "x": 159.0,
-    "y": 123.0,
-    "z": -78.0,
+    "y": 126.0,
+    "z": -73.0,
     "associatedQuests": [
       "The Staff"
     ],
@@ -3909,8 +3909,8 @@
     "category": "POIs",
     "coordinates": {
       "x": -7.0,
-      "y": 72.0,
-      "z": -165.0
+      "y": 75.0,
+      "z": -187.0
     },
     "shard": "King's Valley",
     "region": "Blackroot Jungle",
@@ -3924,8 +3924,8 @@
     "linear": true,
     "prerequisite_item": null,
     "x": -7.0,
-    "y": 72.0,
-    "z": -165.0,
+    "y": 75.0,
+    "z": -187.0,
     "associatedQuests": [],
     "questSteps": {}
   },
@@ -3934,8 +3934,8 @@
     "category": "POIs",
     "coordinates": {
       "x": 215.0,
-      "y": 125.0,
-      "z": -109.0
+      "y": 127.0,
+      "z": -110.0
     },
     "shard": "King's Valley",
     "region": "Blackroot Jungle",
@@ -3949,8 +3949,8 @@
     "linear": true,
     "prerequisite_item": null,
     "x": 215.0,
-    "y": 125.0,
-    "z": -109.0,
+    "y": 127.0,
+    "z": -110.0,
     "associatedQuests": [],
     "questSteps": {}
   },
@@ -4865,9 +4865,9 @@
     "name": "Swamp Sinkhole",
     "category": "POIs",
     "coordinates": {
-      "x": -669.0,
-      "y": 78.0,
-      "z": -348.0
+      "x": -670.0,
+      "y": 99.0,
+      "z": -362.0
     },
     "shard": "King's Valley",
     "region": "Swamplands",
@@ -4880,9 +4880,9 @@
     "plane": "real",
     "linear": true,
     "prerequisite_item": null,
-    "x": -669.0,
-    "y": 78.0,
-    "z": -348.0,
+    "x": -670.0,
+    "y": 99.0,
+    "z": -362.0,
     "associatedQuests": [],
     "questSteps": {}
   },
@@ -4890,9 +4890,9 @@
     "name": "Waterfall Island",
     "category": "POIs",
     "coordinates": {
-      "x": -667.0,
-      "y": 90.0,
-      "z": -408.0
+      "x": -665.0,
+      "y": 94.0,
+      "z": -401.0
     },
     "shard": "King's Valley",
     "region": "Swamplands",
@@ -4905,9 +4905,9 @@
     "plane": "real",
     "linear": true,
     "prerequisite_item": null,
-    "x": -667.0,
-    "y": 90.0,
-    "z": -408.0,
+    "x": -665.0,
+    "y": 94.0,
+    "z": -401.0,
     "associatedQuests": [],
     "questSteps": {}
   },
@@ -78512,5 +78512,1027 @@
     "z": 146.0,
     "associatedQuests": [],
     "questSteps": []
+  },
+  "quest_mages_legacy_step_1_vargos_intro": {
+    "name": "Mage's Legacy (1/7): Archmage Vargos",
+    "category": "Quests",
+    "x": -735.0,
+    "y": 109.0,
+    "z": 102.0,
+    "coordinates": {
+      "x": -735.0,
+      "y": 109.0,
+      "z": 102.0
+    },
+    "shard": "King's Valley",
+    "region": "Sierhaven",
+    "subregion": "Academy",
+    "context": "Speak with Archmage Vargos on the ground floor of Sierhaven Academy to begin Monumenta's mainline quest series. He requests you visit his upper office.",
+    "associated_quests": [
+      "Mage's Legacy"
+    ],
+    "associatedQuests": [
+      "Mage's Legacy"
+    ],
+    "quest_steps": {
+      "Mage's Legacy": 1
+    },
+    "questSteps": {
+      "Mage's Legacy": 1
+    },
+    "step": 1,
+    "next_id": "quest_mages_legacy_step_2_vargos_office",
+    "plane": "real",
+    "linear": true
+  },
+  "quest_mages_legacy_step_2_vargos_office": {
+    "name": "Mage's Legacy (2/7): Vargos' Office",
+    "category": "Quests",
+    "x": -738.0,
+    "y": 122.0,
+    "z": 161.0,
+    "coordinates": {
+      "x": -738.0,
+      "y": 122.0,
+      "z": 161.0
+    },
+    "shard": "King's Valley",
+    "region": "Sierhaven",
+    "subregion": "Upper Academy",
+    "context": "Head up to the top floor of the Academy. Archmage Vargos instructs you to travel northeast of Sierhaven to the Mage Tower to search for signs of Ezariah.",
+    "associated_quests": [
+      "Mage's Legacy"
+    ],
+    "associatedQuests": [
+      "Mage's Legacy"
+    ],
+    "quest_steps": {
+      "Mage's Legacy": 2
+    },
+    "questSteps": {
+      "Mage's Legacy": 2
+    },
+    "step": 2,
+    "next_id": "quest_mages_legacy_step_3_mage_tower",
+    "plane": "real",
+    "linear": true
+  },
+  "quest_mages_legacy_step_3_mage_tower": {
+    "name": "Mage's Legacy (3/7): Mage Tower Investigation",
+    "category": "Quests",
+    "x": -524.0,
+    "y": 162.0,
+    "z": -496.0,
+    "coordinates": {
+      "x": -524.0,
+      "y": 162.0,
+      "z": -496.0
+    },
+    "shard": "King's Valley",
+    "region": "Mage Tower",
+    "subregion": "Tower Peak",
+    "context": "Ascend to the top of the Mage Tower northeast of Sierhaven (-524, 162, -496). Locate Ezariah's Odd Set of Notes (Encrypted Notes).",
+    "associated_quests": [
+      "Mage's Legacy"
+    ],
+    "associatedQuests": [
+      "Mage's Legacy"
+    ],
+    "quest_steps": {
+      "Mage's Legacy": 3
+    },
+    "questSteps": {
+      "Mage's Legacy": 3
+    },
+    "step": 3,
+    "next_id": "quest_mages_legacy_step_4_return_to_vargos",
+    "plane": "real",
+    "linear": true
+  },
+  "quest_mages_legacy_step_4_return_to_vargos": {
+    "name": "Mage's Legacy (4/7): Report to Vargos",
+    "category": "Quests",
+    "x": -734.0,
+    "y": 121.0,
+    "z": 151.0,
+    "coordinates": {
+      "x": -734.0,
+      "y": 121.0,
+      "z": 151.0
+    },
+    "shard": "King's Valley",
+    "region": "Sierhaven",
+    "subregion": "Upper Academy",
+    "context": "CRITICAL STEP: After retrieving the notes from the Mage Tower, return FIRST to Archmage Vargos at Sierhaven Academy (do NOT go directly to Bhairavi). Vargos inspects the notes, discovers they are encrypted, and directs you to his associate Bhairavi in the town of Nyr for translation.",
+    "associated_quests": [
+      "Mage's Legacy"
+    ],
+    "associatedQuests": [
+      "Mage's Legacy"
+    ],
+    "quest_steps": {
+      "Mage's Legacy": 4
+    },
+    "questSteps": {
+      "Mage's Legacy": 4
+    },
+    "step": 4,
+    "next_id": "quest_mages_legacy_step_5_bhairavi_nyr",
+    "plane": "real",
+    "linear": true
+  },
+  "quest_mages_legacy_step_5_bhairavi_nyr": {
+    "name": "Mage's Legacy (5/7): Bhairavi in Nyr",
+    "category": "Quests",
+    "x": -114.0,
+    "y": 104.0,
+    "z": -155.0,
+    "coordinates": {
+      "x": -114.0,
+      "y": 104.0,
+      "z": -155.0
+    },
+    "shard": "King's Valley",
+    "region": "Nyr",
+    "subregion": "Town Center",
+    "context": "Travel to the town of Nyr and speak with Bhairavi (-114, 104, -155). She examines the encrypted notes and points you toward the ancient decryption chamber in the town Crypt.",
+    "associated_quests": [
+      "Mage's Legacy"
+    ],
+    "associatedQuests": [
+      "Mage's Legacy"
+    ],
+    "quest_steps": {
+      "Mage's Legacy": 5
+    },
+    "questSteps": {
+      "Mage's Legacy": 5
+    },
+    "step": 5,
+    "next_id": "quest_mages_legacy_step_6_crypt_entrance",
+    "plane": "real",
+    "linear": true
+  },
+  "quest_mages_legacy_step_6_crypt_entrance": {
+    "name": "Mage's Legacy (6a/7): Nyr Crypt Entrance",
+    "category": "Quests",
+    "x": -109.0,
+    "y": 95.0,
+    "z": -151.0,
+    "coordinates": {
+      "x": -109.0,
+      "y": 95.0,
+      "z": -151.0
+    },
+    "shard": "King's Valley",
+    "region": "Nyr",
+    "subregion": "Graveyard",
+    "context": "CRITICAL ACCESS: Enter the Nyr Crypt from this entrance in the graveyard (-109, 95, -151). Go down the stairs to reach the Decryption Chamber.",
+    "associated_quests": [
+      "Mage's Legacy"
+    ],
+    "associatedQuests": [
+      "Mage's Legacy"
+    ],
+    "quest_steps": {
+      "Mage's Legacy": 6
+    },
+    "questSteps": {
+      "Mage's Legacy": 6
+    },
+    "step": 6,
+    "next_id": "quest_mages_legacy_step_6_crypt_decryption",
+    "plane": "real",
+    "linear": true
+  },
+  "quest_mages_legacy_step_6_crypt_decryption": {
+    "name": "Mage's Legacy (6b/7): Decrypt Notes (Crypt Levers)",
+    "category": "Quests",
+    "x": -970.0,
+    "y": 10.0,
+    "z": -3403.0,
+    "coordinates": {
+      "x": -970.0,
+      "y": 10.0,
+      "z": -3403.0
+    },
+    "shard": "King's Valley",
+    "region": "Nyr Crypt",
+    "subregion": "Decryption Chamber",
+    "context": "Inside the Crypt Decryption Chamber (-970, 10, -3403), set the 4 wall levers (-974, -973, -972, -971) and press the birch button to decipher the ancient notes.",
+    "associated_quests": [
+      "Mage's Legacy"
+    ],
+    "associatedQuests": [
+      "Mage's Legacy"
+    ],
+    "quest_steps": {
+      "Mage's Legacy": 6
+    },
+    "questSteps": {
+      "Mage's Legacy": 6
+    },
+    "step": 6,
+    "next_id": "quest_mages_legacy_step_7_turnin",
+    "plane": "real",
+    "linear": true
+  },
+  "quest_mages_legacy_step_7_turnin": {
+    "name": "Mage's Legacy (7/7): Turn-In to Archmage Vargos",
+    "category": "Quests",
+    "x": -735.0,
+    "y": 122.0,
+    "z": 163.0,
+    "coordinates": {
+      "x": -735.0,
+      "y": 122.0,
+      "z": 163.0
+    },
+    "shard": "King's Valley",
+    "region": "Sierhaven",
+    "subregion": "Upper Academy",
+    "context": "Return to Archmage Vargos at Sierhaven Academy with the decrypted notes. Completing this quest grants Morphic Shield, Plot & Skill Points, and unlocks 'Winds of War'.",
+    "associated_quests": [
+      "Mage's Legacy"
+    ],
+    "associatedQuests": [
+      "Mage's Legacy"
+    ],
+    "quest_steps": {
+      "Mage's Legacy": 7
+    },
+    "questSteps": {
+      "Mage's Legacy": 7
+    },
+    "step": 7,
+    "next_id": "quest_winds_of_war_step_1_vargos",
+    "plane": "real",
+    "linear": true
+  },
+  "quest_winds_of_war_step_1_vargos": {
+    "name": "Winds of War (1/6): Vargos Advice",
+    "category": "Quests",
+    "x": -723.0,
+    "y": 108.0,
+    "z": 38.0,
+    "coordinates": {
+      "x": -723.0,
+      "y": 108.0,
+      "z": 38.0
+    },
+    "shard": "King's Valley",
+    "region": "Sierhaven",
+    "subregion": "Academy Courtyard",
+    "context": "Speak with Vargos in Sierhaven after completing Mage's Legacy. He advises you to consult with Bhairavi in Nyr regarding escalating threats.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {
+      "Winds of War": 1
+    },
+    "questSteps": {
+      "Winds of War": 1
+    },
+    "step": 1,
+    "next_id": "quest_winds_of_war_step_2_bhairavi_nyr",
+    "plane": "real",
+    "linear": true
+  },
+  "quest_winds_of_war_step_2_bhairavi_nyr": {
+    "name": "Winds of War (2/6): Bhairavi in Nyr",
+    "category": "Quests",
+    "x": -114.0,
+    "y": 104.0,
+    "z": -155.0,
+    "coordinates": {
+      "x": -114.0,
+      "y": 104.0,
+      "z": -155.0
+    },
+    "shard": "King's Valley",
+    "region": "Nyr",
+    "subregion": "Town Center",
+    "context": "Speak to Bhairavi in Nyr. She gives you the Curse Sensor and tasks you with investigating the Ruined Mansion and contacting Scout Darius.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {
+      "Winds of War": 2
+    },
+    "questSteps": {
+      "Winds of War": 2
+    },
+    "step": 2,
+    "next_id": "quest_winds_of_war_step_3_ruined_mansion",
+    "plane": "real",
+    "linear": true
+  },
+  "quest_winds_of_war_step_3_ruined_mansion": {
+    "name": "Winds of War (3/6): Ruined Mansion Vault",
+    "category": "Quests",
+    "x": -7.0,
+    "y": 75.0,
+    "z": -187.0,
+    "coordinates": {
+      "x": -7.0,
+      "y": 75.0,
+      "z": -187.0
+    },
+    "shard": "King's Valley",
+    "region": "Ruined Mansion",
+    "subregion": "Mansion Courtyard",
+    "context": "Investigate the Ruined Mansion POI. Use the lever at (-9, 78, -188) and search the vaults to recover the ancient book and bottle.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {
+      "Winds of War": 3
+    },
+    "questSteps": {
+      "Winds of War": 3
+    },
+    "step": 3,
+    "next_id": "quest_winds_of_war_step_4_return_bhairavi",
+    "plane": "real",
+    "linear": true
+  },
+  "quest_winds_of_war_step_4_return_bhairavi": {
+    "name": "Winds of War (4/6): Return to Bhairavi",
+    "category": "Quests",
+    "x": -114.0,
+    "y": 104.0,
+    "z": -155.0,
+    "coordinates": {
+      "x": -114.0,
+      "y": 104.0,
+      "z": -155.0
+    },
+    "shard": "King's Valley",
+    "region": "Nyr",
+    "subregion": "Town Center",
+    "context": "Return to Bhairavi with the book and bottle recovered from the Ruined Mansion. She directs you to the White Wool Dungeon.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {
+      "Winds of War": 4
+    },
+    "questSteps": {
+      "Winds of War": 4
+    },
+    "step": 4,
+    "next_id": "quest_winds_of_war_step_5_lobby_entry",
+    "plane": "real",
+    "linear": true
+  },
+  "quest_winds_of_war_step_5_lobby_entry": {
+    "name": "Winds of War (5/6): White Wool Lobby Entry",
+    "category": "Quests",
+    "x": 191.0,
+    "y": 109.0,
+    "z": -168.0,
+    "coordinates": {
+      "x": 191.0,
+      "y": 109.0,
+      "z": -168.0
+    },
+    "shard": "King's Valley",
+    "region": "Blackroot Jungle",
+    "subregion": "Dungeon Approach",
+    "context": "Head to the White Wool Lobby entrance in Blackroot Jungle. Talk to Bhairavi's Projection in the lobby (159, 66, -135).",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {
+      "Winds of War": 5
+    },
+    "questSteps": {
+      "Winds of War": 5
+    },
+    "step": 5,
+    "next_id": "quest_winds_of_war_step_6_dungeon_entry",
+    "plane": "real",
+    "linear": true
+  },
+  "quest_winds_of_war_step_6_dungeon_entry": {
+    "name": "Winds of War (6/6): Enter White Wool Dungeon",
+    "category": "Quests",
+    "x": 151.0,
+    "y": 67.0,
+    "z": -153.0,
+    "coordinates": {
+      "x": 151.0,
+      "y": 67.0,
+      "z": -153.0
+    },
+    "shard": "King's Valley",
+    "region": "White Wool Lobby",
+    "subregion": "Entrance Gate",
+    "context": "Pay the entry fee (32 Concentrated Experience) at the gatekeeper (149, 68, -153) to enter White Wool Dungeon!",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {
+      "Winds of War": 6
+    },
+    "questSteps": {
+      "Winds of War": 6
+    },
+    "step": 6,
+    "next_id": "dungeon_whitewool_spawn",
+    "plane": "real",
+    "linear": true
+  },
+  "dungeon_whitewool_spawn": {
+    "name": "White Wool: Dungeon Spawn & Entry",
+    "category": "Dungeons",
+    "x": -1466.0,
+    "y": 4.0,
+    "z": -697.0,
+    "coordinates": {
+      "x": -1466.0,
+      "y": 4.0,
+      "z": -697.0
+    },
+    "shard": "King's Valley",
+    "region": "White Wool Dungeon",
+    "subregion": "Entry Courtyard",
+    "context": "Spawn location inside the White Wool Dungeon instance. Prepare gear, check supplies, and group up with teammates.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "dungeon",
+    "linear": false
+  },
+  "dungeon_whitewool_lobby_echest": {
+    "name": "White Wool: Entry Safe Camp & Ender Chest",
+    "category": "Dungeons",
+    "x": -1457.0,
+    "y": 3.0,
+    "z": -687.0,
+    "coordinates": {
+      "x": -1457.0,
+      "y": 3.0,
+      "z": -687.0
+    },
+    "shard": "King's Valley",
+    "region": "White Wool Dungeon",
+    "subregion": "Entry Courtyard",
+    "context": "Ender Chest and safe rest zone right at the entrance of White Wool Dungeon.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "dungeon",
+    "linear": false
+  },
+  "dungeon_whitewool_dungeon_guard": {
+    "name": "White Wool: Dungeon Guard",
+    "category": "NPCs",
+    "x": -1448.0,
+    "y": 3.0,
+    "z": -688.0,
+    "coordinates": {
+      "x": -1448.0,
+      "y": 3.0,
+      "z": -688.0
+    },
+    "shard": "King's Valley",
+    "region": "White Wool Dungeon",
+    "subregion": "Entry Corridor",
+    "context": "Guardian NPC stationing the entrance corridor of White Wool Dungeon.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "dungeon",
+    "linear": false
+  },
+  "dungeon_whitewool_lever_1": {
+    "name": "White Wool: Gate Control Lever 1 (West Wing)",
+    "category": "Dungeons",
+    "x": -1517.0,
+    "y": 41.0,
+    "z": -711.0,
+    "coordinates": {
+      "x": -1517.0,
+      "y": 41.0,
+      "z": -711.0
+    },
+    "shard": "King's Valley",
+    "region": "White Wool Dungeon",
+    "subregion": "West Rampart",
+    "context": "First primary gate mechanism. Flip this lever on the western upper rampart to unlock the lower corridors.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "dungeon",
+    "linear": false
+  },
+  "dungeon_whitewool_lever_2": {
+    "name": "White Wool: Gate Control Lever 2 (East Wing)",
+    "category": "Dungeons",
+    "x": -1392.0,
+    "y": 41.0,
+    "z": -713.0,
+    "coordinates": {
+      "x": -1392.0,
+      "y": 41.0,
+      "z": -713.0
+    },
+    "shard": "King's Valley",
+    "region": "White Wool Dungeon",
+    "subregion": "East Walkway",
+    "context": "Second gate mechanism. Flip this lever on the eastern walkway to open access to the lower library and crypts.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "dungeon",
+    "linear": false
+  },
+  "dungeon_whitewool_library": {
+    "name": "White Wool: Lore Library & Ancient Bookshelf",
+    "category": "Dungeons",
+    "x": -1406.0,
+    "y": 42.0,
+    "z": -775.0,
+    "coordinates": {
+      "x": -1406.0,
+      "y": 42.0,
+      "z": -775.0
+    },
+    "shard": "King's Valley",
+    "region": "White Wool Dungeon",
+    "subregion": "Library Wing",
+    "context": "Ancient library room in White Wool. Inspect the lore bookshelf and loot the hidden supply chest (-1405, 42, -775). Beware of trapped chests nearby!",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "dungeon",
+    "linear": false
+  },
+  "dungeon_whitewool_npc_rhella": {
+    "name": "White Wool: Rhella",
+    "category": "NPCs",
+    "x": -1474.0,
+    "y": 23.0,
+    "z": -795.0,
+    "coordinates": {
+      "x": -1474.0,
+      "y": 23.0,
+      "z": -795.0
+    },
+    "shard": "King's Valley",
+    "region": "White Wool Dungeon",
+    "subregion": "Underground Cavern",
+    "context": "Key expedition survivor NPC found stranded inside White Wool Dungeon.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "dungeon",
+    "linear": false
+  },
+  "dungeon_whitewool_high_lever": {
+    "name": "White Wool: High Spire Tower Lever",
+    "category": "Dungeons",
+    "x": -1530.0,
+    "y": 71.0,
+    "z": -756.0,
+    "coordinates": {
+      "x": -1530.0,
+      "y": 71.0,
+      "z": -756.0
+    },
+    "shard": "King's Valley",
+    "region": "White Wool Dungeon",
+    "subregion": "High Spire",
+    "context": "Critical progression lever atop the high tower spire (y: 71). Pull to unlock the massive central bridge leading to deep chambers.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "dungeon",
+    "linear": false
+  },
+  "dungeon_whitewool_bhairavi_projection": {
+    "name": "White Wool: Bhairavi's Projection (Midpoint)",
+    "category": "NPCs",
+    "x": -1458.0,
+    "y": 46.0,
+    "z": -900.0,
+    "coordinates": {
+      "x": -1458.0,
+      "y": 46.0,
+      "z": -900.0
+    },
+    "shard": "King's Valley",
+    "region": "White Wool Dungeon",
+    "subregion": "Deep Corridor",
+    "context": "Mid-dungeon projection of Bhairavi guiding players into the second half of the White Wool instance.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "dungeon",
+    "linear": false
+  },
+  "dungeon_whitewool_shortcut_button": {
+    "name": "White Wool: Return Shortcut Button",
+    "category": "Dungeons",
+    "x": -1467.0,
+    "y": 12.0,
+    "z": -721.0,
+    "coordinates": {
+      "x": -1467.0,
+      "y": 12.0,
+      "z": -721.0
+    },
+    "shard": "King's Valley",
+    "region": "White Wool Dungeon",
+    "subregion": "Connector Tunnel",
+    "context": "Stone shortcut button linking mid-dungeon tunnels back toward the main entry courtyard.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "dungeon",
+    "linear": false
+  },
+  "dungeon_whitewool_midpoint_deep": {
+    "name": "White Wool: Midpoint Checkpoint (Deep Cavern)",
+    "category": "Dungeons",
+    "x": -1477.0,
+    "y": 41.0,
+    "z": -948.0,
+    "coordinates": {
+      "x": -1477.0,
+      "y": 41.0,
+      "z": -948.0
+    },
+    "shard": "King's Valley",
+    "region": "White Wool Dungeon",
+    "subregion": "Deep Chasm",
+    "context": "Furthest exploration point reached during the session (~50% dungeon clearance). Prepares access to the boss approach.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "dungeon",
+    "linear": false
+  },
+  "crypt_nyr_entrance": {
+    "name": "Nyr Crypt Entrance",
+    "category": "Secrets",
+    "x": -109.0,
+    "y": 95.0,
+    "z": -151.0,
+    "coordinates": {
+      "x": -109.0,
+      "y": 95.0,
+      "z": -151.0
+    },
+    "shard": "King's Valley",
+    "region": "Nyr",
+    "subregion": "Graveyard",
+    "context": "Entrance to the Nyr Crypt in the graveyard (-109, 95, -151). Leads down to the Decryption Chamber and Crypt Council scholars.",
+    "associated_quests": [
+      "Mage's Legacy"
+    ],
+    "associatedQuests": [
+      "Mage's Legacy"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "real",
+    "linear": false
+  },
+  "crypt_nyr_puzzle_levers": {
+    "name": "Nyr Crypt: Decryption Levers & Button",
+    "category": "Secrets",
+    "x": -970.0,
+    "y": 10.0,
+    "z": -3403.0,
+    "coordinates": {
+      "x": -970.0,
+      "y": 10.0,
+      "z": -3403.0
+    },
+    "shard": "King's Valley",
+    "region": "Nyr Crypt",
+    "subregion": "Decryption Chamber",
+    "context": "4-Lever & Birch Button mechanism used to decrypt ancient scrolls and notes in Mage's Legacy.",
+    "associated_quests": [
+      "Mage's Legacy"
+    ],
+    "associatedQuests": [
+      "Mage's Legacy"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "real",
+    "linear": false
+  },
+  "npc_archmage_valgus": {
+    "name": "Archmage Valgus",
+    "category": "NPCs",
+    "x": -967.0,
+    "y": 111.0,
+    "z": -3401.0,
+    "coordinates": {
+      "x": -967.0,
+      "y": 111.0,
+      "z": -3401.0
+    },
+    "shard": "King's Valley",
+    "region": "Nyr Crypt",
+    "subregion": "Scholar Gallery",
+    "context": "Archmage scholar of the Nyr Crypt council.",
+    "associated_quests": [],
+    "associatedQuests": [],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "real",
+    "linear": false
+  },
+  "npc_qatra_syncos": {
+    "name": "Qatra Syncos",
+    "category": "NPCs",
+    "x": -970.0,
+    "y": 111.0,
+    "z": -3404.0,
+    "coordinates": {
+      "x": -970.0,
+      "y": 111.0,
+      "z": -3404.0
+    },
+    "shard": "King's Valley",
+    "region": "Nyr Crypt",
+    "subregion": "Scholar Gallery",
+    "context": "Scholar NPC studying arcane glyphs in the Nyr Crypt.",
+    "associated_quests": [],
+    "associatedQuests": [],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "real",
+    "linear": false
+  },
+  "npc_gwain_namu": {
+    "name": "Gwain Namu",
+    "category": "NPCs",
+    "x": -970.0,
+    "y": 111.0,
+    "z": -3406.0,
+    "coordinates": {
+      "x": -970.0,
+      "y": 111.0,
+      "z": -3406.0
+    },
+    "shard": "King's Valley",
+    "region": "Nyr Crypt",
+    "subregion": "Scholar Gallery",
+    "context": "Scholar NPC studying arcane glyphs in the Nyr Crypt.",
+    "associated_quests": [],
+    "associatedQuests": [],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "real",
+    "linear": false
+  },
+  "npc_filyn_lune": {
+    "name": "Filyn Lune",
+    "category": "NPCs",
+    "x": -964.0,
+    "y": 111.0,
+    "z": -3406.0,
+    "coordinates": {
+      "x": -964.0,
+      "y": 111.0,
+      "z": -3406.0
+    },
+    "shard": "King's Valley",
+    "region": "Nyr Crypt",
+    "subregion": "Scholar Gallery",
+    "context": "Scholar NPC studying arcane glyphs in the Nyr Crypt.",
+    "associated_quests": [],
+    "associatedQuests": [],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "real",
+    "linear": false
+  },
+  "npc_tempest_cross": {
+    "name": "Tempest Cross",
+    "category": "NPCs",
+    "x": -964.0,
+    "y": 111.0,
+    "z": -3408.0,
+    "coordinates": {
+      "x": -964.0,
+      "y": 111.0,
+      "z": -3408.0
+    },
+    "shard": "King's Valley",
+    "region": "Nyr Crypt",
+    "subregion": "Scholar Gallery",
+    "context": "Scholar NPC studying arcane glyphs in the Nyr Crypt.",
+    "associated_quests": [],
+    "associatedQuests": [],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "real",
+    "linear": false
+  },
+  "npc_calder": {
+    "name": "Calder",
+    "category": "NPCs",
+    "x": -967.0,
+    "y": 111.0,
+    "z": -3412.0,
+    "coordinates": {
+      "x": -967.0,
+      "y": 111.0,
+      "z": -3412.0
+    },
+    "shard": "King's Valley",
+    "region": "Nyr Crypt",
+    "subregion": "Scholar Gallery",
+    "context": "Scholar NPC studying arcane glyphs in the Nyr Crypt.",
+    "associated_quests": [],
+    "associatedQuests": [],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "real",
+    "linear": false
+  },
+  "npc_wool_dungeon_informant": {
+    "name": "Wool Dungeon Informant",
+    "category": "NPCs",
+    "x": 160.0,
+    "y": 67.0,
+    "z": -152.0,
+    "coordinates": {
+      "x": 160.0,
+      "y": 67.0,
+      "z": -152.0
+    },
+    "shard": "King's Valley",
+    "region": "White Wool Lobby",
+    "subregion": "Lobby Entrance",
+    "context": "Informant providing crucial advice on White Wool Dungeon mechanics and readiness.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "real",
+    "linear": false
+  },
+  "npc_wool_gatekeeper_1": {
+    "name": "Wool Gatekeeper",
+    "category": "NPCs",
+    "x": 149.0,
+    "y": 68.0,
+    "z": -153.0,
+    "coordinates": {
+      "x": 149.0,
+      "y": 68.0,
+      "z": -153.0
+    },
+    "shard": "King's Valley",
+    "region": "White Wool Lobby",
+    "subregion": "Dungeon Gate",
+    "context": "Entry fee collector (32 Concentrated Experience) for White Wool Dungeon.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "real",
+    "linear": false
+  },
+  "npc_wool_gatekeeper_2": {
+    "name": "Wool Gatekeeper (North)",
+    "category": "NPCs",
+    "x": 149.0,
+    "y": 68.0,
+    "z": -151.0,
+    "coordinates": {
+      "x": 149.0,
+      "y": 68.0,
+      "z": -151.0
+    },
+    "shard": "King's Valley",
+    "region": "White Wool Lobby",
+    "subregion": "Dungeon Gate",
+    "context": "Secondary gatekeeper guarding the northern entrance portal.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "real",
+    "linear": false
+  },
+  "npc_bhairavi_projection_lobby": {
+    "name": "Bhairavi's Projection (Lobby)",
+    "category": "NPCs",
+    "x": 159.0,
+    "y": 66.0,
+    "z": -135.0,
+    "coordinates": {
+      "x": 159.0,
+      "y": 66.0,
+      "z": -135.0
+    },
+    "shard": "King's Valley",
+    "region": "White Wool Lobby",
+    "subregion": "Briefing Area",
+    "context": "Projection of Bhairavi briefing players before entering White Wool Dungeon.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "real",
+    "linear": false
   }
 }
