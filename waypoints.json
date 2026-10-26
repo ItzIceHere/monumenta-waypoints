@@ -78527,7 +78527,7 @@
     "shard": "King's Valley",
     "region": "Sierhaven",
     "subregion": "Academy",
-    "context": "Speak with Archmage Vargos on the ground floor of Sierhaven Academy to begin Monumenta's mainline quest series. He requests you visit his upper office.",
+    "context": "Speak with Archmage Vargos on the ground floor of Sierhaven Academy to begin Monumenta's mainline quest series. He asks you to meet him upstairs in his private office.",
     "associated_quests": [
       "Mage's Legacy"
     ],
@@ -78548,18 +78548,18 @@
   "quest_mages_legacy_step_2_vargos_office": {
     "name": "Mage's Legacy (2/7): Vargos' Office",
     "category": "Quests",
-    "x": -738.0,
+    "x": -735.0,
     "y": 122.0,
-    "z": 161.0,
+    "z": 163.0,
     "coordinates": {
-      "x": -738.0,
+      "x": -735.0,
       "y": 122.0,
-      "z": 161.0
+      "z": 163.0
     },
     "shard": "King's Valley",
     "region": "Sierhaven",
     "subregion": "Upper Academy",
-    "context": "Head up to the top floor of the Academy. Archmage Vargos instructs you to travel northeast of Sierhaven to the Mage Tower to search for signs of Ezariah.",
+    "context": "Climb to the top floor of the Academy. Archmage Vargos instructs you to travel northeast of Sierhaven to the Mage Tower to search for signs of former Council member Ezariah.",
     "associated_quests": [
       "Mage's Legacy"
     ],
@@ -78580,18 +78580,18 @@
   "quest_mages_legacy_step_3_mage_tower": {
     "name": "Mage's Legacy (3/7): Mage Tower Investigation",
     "category": "Quests",
-    "x": -524.0,
-    "y": 162.0,
-    "z": -496.0,
+    "x": -514.0,
+    "y": 163.0,
+    "z": -500.0,
     "coordinates": {
-      "x": -524.0,
-      "y": 162.0,
-      "z": -496.0
+      "x": -514.0,
+      "y": 163.0,
+      "z": -500.0
     },
     "shard": "King's Valley",
     "region": "Mage Tower",
     "subregion": "Tower Peak",
-    "context": "Ascend to the top of the Mage Tower northeast of Sierhaven (-524, 162, -496). Locate Ezariah's Odd Set of Notes (Encrypted Notes).",
+    "context": "Ascend to the top of the Mage Tower northeast of Sierhaven. Defeat the Guardian of the Lost Master to recover Ezariah's Odd Research Notes (Encrypted Notes).",
     "associated_quests": [
       "Mage's Legacy"
     ],
@@ -78612,18 +78612,18 @@
   "quest_mages_legacy_step_4_return_to_vargos": {
     "name": "Mage's Legacy (4/7): Report to Vargos",
     "category": "Quests",
-    "x": -734.0,
-    "y": 121.0,
-    "z": 151.0,
+    "x": -735.0,
+    "y": 122.0,
+    "z": 163.0,
     "coordinates": {
-      "x": -734.0,
-      "y": 121.0,
-      "z": 151.0
+      "x": -735.0,
+      "y": 122.0,
+      "z": 163.0
     },
     "shard": "King's Valley",
     "region": "Sierhaven",
     "subregion": "Upper Academy",
-    "context": "CRITICAL STEP: After retrieving the notes from the Mage Tower, return FIRST to Archmage Vargos at Sierhaven Academy (do NOT go directly to Bhairavi). Vargos inspects the notes, discovers they are encrypted, and directs you to his associate Bhairavi in the town of Nyr for translation.",
+    "context": "CRITICAL STEP: After retrieving the notes from the Mage Tower, return FIRST to Archmage Vargos at Sierhaven Academy (do NOT go directly to Bhairavi). Vargos inspects the notes, discovers they are in ancient Tlaxan and hexed with encryption, and directs you to his associate Bhairavi in the town of Nyr for translation.",
     "associated_quests": [
       "Mage's Legacy"
     ],
@@ -78644,18 +78644,18 @@
   "quest_mages_legacy_step_5_bhairavi_nyr": {
     "name": "Mage's Legacy (5/7): Bhairavi in Nyr",
     "category": "Quests",
-    "x": -114.0,
+    "x": -113.0,
     "y": 104.0,
-    "z": -155.0,
+    "z": -156.0,
     "coordinates": {
-      "x": -114.0,
+      "x": -113.0,
       "y": 104.0,
-      "z": -155.0
+      "z": -156.0
     },
     "shard": "King's Valley",
     "region": "Nyr",
     "subregion": "Town Center",
-    "context": "Travel to the town of Nyr and speak with Bhairavi (-114, 104, -155). She examines the encrypted notes and points you toward the ancient decryption chamber in the town Crypt.",
+    "context": "Travel to the town of Nyr and speak with Bhairavi (-113, 104, -156). Show her the encrypted notes. She directs you to her basement/crypt entrance in the graveyard to crack the encryption hex.",
     "associated_quests": [
       "Mage's Legacy"
     ],
@@ -78687,7 +78687,7 @@
     "shard": "King's Valley",
     "region": "Nyr",
     "subregion": "Graveyard",
-    "context": "CRITICAL ACCESS: Enter the Nyr Crypt from this entrance in the graveyard (-109, 95, -151). Go down the stairs to reach the Decryption Chamber.",
+    "context": "CRITICAL ACCESS: Enter the Nyr Crypt from this entrance in the graveyard behind Bhairavi's building (-109, 95, -151). Go down into the basement Decryption Chamber.",
     "associated_quests": [
       "Mage's Legacy"
     ],
@@ -78706,7 +78706,7 @@
     "linear": true
   },
   "quest_mages_legacy_step_6_crypt_decryption": {
-    "name": "Mage's Legacy (6b/7): Decrypt Notes (Crypt Levers)",
+    "name": "Mage's Legacy (6b/7): Curse Breaker Levers",
     "category": "Quests",
     "x": -970.0,
     "y": 10.0,
@@ -78719,7 +78719,7 @@
     "shard": "King's Valley",
     "region": "Nyr Crypt",
     "subregion": "Decryption Chamber",
-    "context": "Inside the Crypt Decryption Chamber (-970, 10, -3403), set the 4 wall levers (-974, -973, -972, -971) and press the birch button to decipher the ancient notes.",
+    "context": "Inside the Crypt Decryption Chamber (-970, 10, -3403), use Bhairavi's Curse Breaker machine. Press the button to start, flip the 4 levers (-974, -973, -972, -971) and press the button again to submit. Solve 3 iterative rounds of lever combinations to decrypt the notes. Afterward, return upstairs to Bhairavi (-113, 104, -156) before heading out.",
     "associated_quests": [
       "Mage's Legacy"
     ],
@@ -78751,7 +78751,7 @@
     "shard": "King's Valley",
     "region": "Sierhaven",
     "subregion": "Upper Academy",
-    "context": "Return to Archmage Vargos at Sierhaven Academy with the decrypted notes. Completing this quest grants Morphic Shield, Plot & Skill Points, and unlocks 'Winds of War'.",
+    "context": "Return to Archmage Vargos in Sierhaven Academy with the decrypted notes. Completing this quest grants Morphic Shield, 10 Apportation Runes, Plot access, a Skill Point, and unlocks 'Winds of War'.",
     "associated_quests": [
       "Mage's Legacy"
     ],
@@ -78783,7 +78783,7 @@
     "shard": "King's Valley",
     "region": "Sierhaven",
     "subregion": "Academy Courtyard",
-    "context": "Speak with Vargos in Sierhaven after completing Mage's Legacy. He advises you to consult with Bhairavi in Nyr regarding escalating threats.",
+    "context": "Speak with Vargos in Sierhaven after completing Mage's Legacy. He advises you to consult with Bhairavi in Nyr regarding escalating threats in the Blackroot Battlefield.",
     "associated_quests": [
       "Winds of War"
     ],
@@ -78804,18 +78804,18 @@
   "quest_winds_of_war_step_2_bhairavi_nyr": {
     "name": "Winds of War (2/6): Bhairavi in Nyr",
     "category": "Quests",
-    "x": -114.0,
+    "x": -113.0,
     "y": 104.0,
-    "z": -155.0,
+    "z": -156.0,
     "coordinates": {
-      "x": -114.0,
+      "x": -113.0,
       "y": 104.0,
-      "z": -155.0
+      "z": -156.0
     },
     "shard": "King's Valley",
     "region": "Nyr",
     "subregion": "Town Center",
-    "context": "Speak to Bhairavi in Nyr. She gives you the Curse Sensor and tasks you with investigating the Ruined Mansion and contacting Scout Darius.",
+    "context": "Speak to Bhairavi in Nyr. She gives you the Topographic Curse Sensor flower and tasks you with investigating the Blackroot Battlefield ghosts and the Ruined Mansion.",
     "associated_quests": [
       "Winds of War"
     ],
@@ -78836,18 +78836,18 @@
   "quest_winds_of_war_step_3_ruined_mansion": {
     "name": "Winds of War (3/6): Ruined Mansion Vault",
     "category": "Quests",
-    "x": -7.0,
-    "y": 75.0,
-    "z": -187.0,
+    "x": -1.0,
+    "y": 85.0,
+    "z": -200.0,
     "coordinates": {
-      "x": -7.0,
-      "y": 75.0,
-      "z": -187.0
+      "x": -1.0,
+      "y": 85.0,
+      "z": -200.0
     },
     "shard": "King's Valley",
     "region": "Ruined Mansion",
-    "subregion": "Mansion Courtyard",
-    "context": "Investigate the Ruined Mansion POI. Use the lever at (-9, 78, -188) and search the vaults to recover the ancient book and bottle.",
+    "subregion": "Hidden Vault",
+    "context": "Investigate the Ruined Mansion POI. Use the secret button at (-1, 85, -200) and levers to unlock the subterranean Vault. Break the curse with the Sensor and recover the ancient book and Bottle of Souls.",
     "associated_quests": [
       "Winds of War"
     ],
@@ -78868,18 +78868,18 @@
   "quest_winds_of_war_step_4_return_bhairavi": {
     "name": "Winds of War (4/6): Return to Bhairavi",
     "category": "Quests",
-    "x": -114.0,
+    "x": -113.0,
     "y": 104.0,
-    "z": -155.0,
+    "z": -156.0,
     "coordinates": {
-      "x": -114.0,
+      "x": -113.0,
       "y": 104.0,
-      "z": -155.0
+      "z": -156.0
     },
     "shard": "King's Valley",
     "region": "Nyr",
     "subregion": "Town Center",
-    "context": "Return to Bhairavi with the book and bottle recovered from the Ruined Mansion. She directs you to the White Wool Dungeon.",
+    "context": "Return to Bhairavi with the book and the Bottle of Souls. She inadvertently opens the bottle, unleashing catastrophic spirit energy, and commands you to follow the spirits to the Halls of Wind and Blood.",
     "associated_quests": [
       "Winds of War"
     ],
@@ -78898,7 +78898,7 @@
     "linear": true
   },
   "quest_winds_of_war_step_5_lobby_entry": {
-    "name": "Winds of War (5/6): White Wool Lobby Entry",
+    "name": "Winds of War (5/6): White Wool Lobby Approach",
     "category": "Quests",
     "x": 191.0,
     "y": 109.0,
@@ -78910,8 +78910,8 @@
     },
     "shard": "King's Valley",
     "region": "Blackroot Jungle",
-    "subregion": "Dungeon Approach",
-    "context": "Head to the White Wool Lobby entrance in Blackroot Jungle. Talk to Bhairavi's Projection in the lobby (159, 66, -135).",
+    "subregion": "Tlaxan Ziggurat",
+    "context": "Enter through the hole near the top of the Tlaxan Ziggurat and fall into the water. Navigate the northern hallway and side tunnel to reach the dungeon lobby portal at [191, 109, -168].",
     "associated_quests": [
       "Winds of War"
     ],
@@ -78930,20 +78930,20 @@
     "linear": true
   },
   "quest_winds_of_war_step_6_dungeon_entry": {
-    "name": "Winds of War (6/6): Enter White Wool Dungeon",
+    "name": "Winds of War (6/6): Enter Halls of Wind and Blood",
     "category": "Quests",
-    "x": 151.0,
-    "y": 67.0,
-    "z": -153.0,
+    "x": 159.0,
+    "y": 66.0,
+    "z": -135.0,
     "coordinates": {
-      "x": 151.0,
-      "y": 67.0,
-      "z": -153.0
+      "x": 159.0,
+      "y": 66.0,
+      "z": -135.0
     },
     "shard": "King's Valley",
     "region": "White Wool Lobby",
-    "subregion": "Entrance Gate",
-    "context": "Pay the entry fee (32 Concentrated Experience) at the gatekeeper (149, 68, -153) to enter White Wool Dungeon!",
+    "subregion": "Briefing Area",
+    "context": "Speak to Bhairavi's Projection in the lobby (159, 66, -135) to neutralize the bottle, receive your White Key, and complete Winds of War! Enter the Halls of Wind and Blood at the gatekeeper (149, 68, -153).",
     "associated_quests": [
       "Winds of War"
     ],
@@ -78957,7 +78957,7 @@
       "Winds of War": 6
     },
     "step": 6,
-    "next_id": "dungeon_whitewool_spawn",
+    "next_id": "dungeon_halls_of_wind_and_blood_entry",
     "plane": "real",
     "linear": true
   },
@@ -79248,7 +79248,7 @@
     "linear": false
   },
   "crypt_nyr_entrance": {
-    "name": "Nyr Crypt Entrance",
+    "name": "Nyr Crypt Entrance (Curse Breaker)",
     "category": "Secrets",
     "x": -109.0,
     "y": 95.0,
@@ -79261,7 +79261,7 @@
     "shard": "King's Valley",
     "region": "Nyr",
     "subregion": "Graveyard",
-    "context": "Entrance to the Nyr Crypt in the graveyard (-109, 95, -151). Leads down to the Decryption Chamber and Crypt Council scholars.",
+    "context": "Entrance to the Nyr Crypt in the graveyard behind Bhairavi's building (-109, 95, -151). Leads down to Bhairavi's Curse Breaker puzzle machine and the Council of Archmages memorial hall.",
     "associated_quests": [
       "Mage's Legacy"
     ],
@@ -79274,7 +79274,7 @@
     "linear": false
   },
   "crypt_nyr_puzzle_levers": {
-    "name": "Nyr Crypt: Decryption Levers & Button",
+    "name": "Nyr Crypt: Curse Breaker Machine",
     "category": "Secrets",
     "x": -970.0,
     "y": 10.0,
@@ -79287,7 +79287,7 @@
     "shard": "King's Valley",
     "region": "Nyr Crypt",
     "subregion": "Decryption Chamber",
-    "context": "4-Lever & Birch Button mechanism used to decrypt ancient scrolls and notes in Mage's Legacy.",
+    "context": "Bhairavi's prototype Curse Breaker machine used to decrypt Ezariah's notes in Mage's Legacy. Press the button to start, flip the 4 levers (-974, -973, -972, -971) and press the button again to submit. Solve 3 iterative rounds.",
     "associated_quests": [
       "Mage's Legacy"
     ],
@@ -79300,7 +79300,7 @@
     "linear": false
   },
   "npc_archmage_valgus": {
-    "name": "Archmage Valgus",
+    "name": "Mage Council: Archmage Valgus Fjordson",
     "category": "NPCs",
     "x": -967.0,
     "y": 111.0,
@@ -79312,17 +79312,21 @@
     },
     "shard": "King's Valley",
     "region": "Nyr Crypt",
-    "subregion": "Scholar Gallery",
-    "context": "Archmage scholar of the Nyr Crypt council.",
-    "associated_quests": [],
-    "associatedQuests": [],
+    "subregion": "Council Hall",
+    "context": "Memorial statue of Archmage Valgus Fjordson, former head of the Mage Council and older brother of Archmage Vargos. Presided over the historic meeting regarding the Monument.",
+    "associated_quests": [
+      "Mage's Legacy"
+    ],
+    "associatedQuests": [
+      "Mage's Legacy"
+    ],
     "quest_steps": {},
     "questSteps": {},
     "plane": "real",
     "linear": false
   },
   "npc_qatra_syncos": {
-    "name": "Qatra Syncos",
+    "name": "Mage Council: Qatra Syncos",
     "category": "NPCs",
     "x": -970.0,
     "y": 111.0,
@@ -79334,17 +79338,21 @@
     },
     "shard": "King's Valley",
     "region": "Nyr Crypt",
-    "subregion": "Scholar Gallery",
-    "context": "Scholar NPC studying arcane glyphs in the Nyr Crypt.",
-    "associated_quests": [],
-    "associatedQuests": [],
+    "subregion": "Council Hall",
+    "context": "Memorial statue of Qatra Syncos, member of the original Nine of the Mage Council.",
+    "associated_quests": [
+      "Mage's Legacy"
+    ],
+    "associatedQuests": [
+      "Mage's Legacy"
+    ],
     "quest_steps": {},
     "questSteps": {},
     "plane": "real",
     "linear": false
   },
   "npc_gwain_namu": {
-    "name": "Gwain Namu",
+    "name": "Mage Council: Gwain Namu",
     "category": "NPCs",
     "x": -970.0,
     "y": 111.0,
@@ -79356,17 +79364,21 @@
     },
     "shard": "King's Valley",
     "region": "Nyr Crypt",
-    "subregion": "Scholar Gallery",
-    "context": "Scholar NPC studying arcane glyphs in the Nyr Crypt.",
-    "associated_quests": [],
-    "associatedQuests": [],
+    "subregion": "Council Hall",
+    "context": "Memorial statue of Gwain Namu, member of the original Nine of the Mage Council.",
+    "associated_quests": [
+      "Mage's Legacy"
+    ],
+    "associatedQuests": [
+      "Mage's Legacy"
+    ],
     "quest_steps": {},
     "questSteps": {},
     "plane": "real",
     "linear": false
   },
   "npc_filyn_lune": {
-    "name": "Filyn Lune",
+    "name": "Mage Council: Filyn Lune",
     "category": "NPCs",
     "x": -964.0,
     "y": 111.0,
@@ -79378,17 +79390,21 @@
     },
     "shard": "King's Valley",
     "region": "Nyr Crypt",
-    "subregion": "Scholar Gallery",
-    "context": "Scholar NPC studying arcane glyphs in the Nyr Crypt.",
-    "associated_quests": [],
-    "associatedQuests": [],
+    "subregion": "Council Hall",
+    "context": "Memorial statue of Filyn Lune, member of the original Nine of the Mage Council.",
+    "associated_quests": [
+      "Mage's Legacy"
+    ],
+    "associatedQuests": [
+      "Mage's Legacy"
+    ],
     "quest_steps": {},
     "questSteps": {},
     "plane": "real",
     "linear": false
   },
   "npc_tempest_cross": {
-    "name": "Tempest Cross",
+    "name": "Mage Council: Tempest Cross",
     "category": "NPCs",
     "x": -964.0,
     "y": 111.0,
@@ -79400,17 +79416,21 @@
     },
     "shard": "King's Valley",
     "region": "Nyr Crypt",
-    "subregion": "Scholar Gallery",
-    "context": "Scholar NPC studying arcane glyphs in the Nyr Crypt.",
-    "associated_quests": [],
-    "associatedQuests": [],
+    "subregion": "Council Hall",
+    "context": "Memorial statue of Tempest Cross, member of the original Nine of the Mage Council.",
+    "associated_quests": [
+      "Mage's Legacy"
+    ],
+    "associatedQuests": [
+      "Mage's Legacy"
+    ],
     "quest_steps": {},
     "questSteps": {},
     "plane": "real",
     "linear": false
   },
   "npc_calder": {
-    "name": "Calder",
+    "name": "Mage Council: Calder (The Traitor)",
     "category": "NPCs",
     "x": -967.0,
     "y": 111.0,
@@ -79422,10 +79442,14 @@
     },
     "shard": "King's Valley",
     "region": "Nyr Crypt",
-    "subregion": "Scholar Gallery",
-    "context": "Scholar NPC studying arcane glyphs in the Nyr Crypt.",
-    "associated_quests": [],
-    "associatedQuests": [],
+    "subregion": "Council Hall",
+    "context": "Memorial statue of Calder, the 9th member of the Mage Council who refused to keep the Monument secret and rebelled against the Council.",
+    "associated_quests": [
+      "Mage's Legacy"
+    ],
+    "associatedQuests": [
+      "Mage's Legacy"
+    ],
     "quest_steps": {},
     "questSteps": {},
     "plane": "real",
@@ -79533,6 +79557,292 @@
     "quest_steps": {},
     "questSteps": {},
     "plane": "real",
+    "linear": false
+  },
+  "dungeon_halls_of_wind_and_blood_entry": {
+    "name": "Halls of Wind and Blood: Dungeon Entry & Spawn",
+    "category": "Dungeons",
+    "x": -1466.0,
+    "y": 4.0,
+    "z": -697.0,
+    "coordinates": {
+      "x": -1466.0,
+      "y": 4.0,
+      "z": -697.0
+    },
+    "shard": "King's Valley",
+    "region": "Halls of Wind and Blood",
+    "subregion": "Soultorn Ruins",
+    "context": "Entry spawn inside the Halls of Wind and Blood (White Wool Dungeon). You start in the massive central hall of the Soultorn Ruins. Prepare for Wind Creepers, Jaguar Spirits, and Hawk Spirits.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "dungeon",
+    "linear": false
+  },
+  "dungeon_halls_of_wind_and_blood_echest": {
+    "name": "Halls of Wind and Blood: Safe Camp & Ender Chest",
+    "category": "Dungeons",
+    "x": -1457.0,
+    "y": 3.0,
+    "z": -687.0,
+    "coordinates": {
+      "x": -1457.0,
+      "y": 3.0,
+      "z": -687.0
+    },
+    "shard": "King's Valley",
+    "region": "Halls of Wind and Blood",
+    "subregion": "Soultorn Ruins",
+    "context": "Safe rest zone and Ender Chest right at the dungeon entrance. Use to safely store valuables before tackling the dungeon wings.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "dungeon",
+    "linear": false
+  },
+  "dungeon_halls_of_wind_and_blood_guard": {
+    "name": "Halls of Wind and Blood: Dungeon Guard",
+    "category": "NPCs",
+    "x": -1448.0,
+    "y": 3.0,
+    "z": -688.0,
+    "coordinates": {
+      "x": -1448.0,
+      "y": 3.0,
+      "z": -688.0
+    },
+    "shard": "King's Valley",
+    "region": "Halls of Wind and Blood",
+    "subregion": "Soultorn Ruins",
+    "context": "Guardian NPC stationed at the threshold of the Soultorn Ruins central hall.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "dungeon",
+    "linear": false
+  },
+  "dungeon_halls_of_wind_and_blood_lever_west": {
+    "name": "Halls of Wind and Blood: Lever 1 (West Shelf)",
+    "category": "Dungeons",
+    "x": -1517.0,
+    "y": 41.0,
+    "z": -711.0,
+    "coordinates": {
+      "x": -1517.0,
+      "y": 41.0,
+      "z": -711.0
+    },
+    "shard": "King's Valley",
+    "region": "Halls of Wind and Blood",
+    "subregion": "Soultorn Ruins",
+    "context": "First of 3 progression levers needed to unlock the Cave of Winds. Located on the far western side of the lowest shelf in the Soultorn Ruins.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "dungeon",
+    "linear": false
+  },
+  "dungeon_halls_of_wind_and_blood_lever_east": {
+    "name": "Halls of Wind and Blood: Lever 2 (East Shelf)",
+    "category": "Dungeons",
+    "x": -1392.0,
+    "y": 41.0,
+    "z": -713.0,
+    "coordinates": {
+      "x": -1392.0,
+      "y": 41.0,
+      "z": -713.0
+    },
+    "shard": "King's Valley",
+    "region": "Halls of Wind and Blood",
+    "subregion": "Soultorn Ruins",
+    "context": "Second of 3 progression levers needed to unlock the Cave of Winds. Located on the far eastern side of the lowest shelf in the Soultorn Ruins.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "dungeon",
+    "linear": false
+  },
+  "dungeon_halls_of_wind_and_blood_lever_high": {
+    "name": "Halls of Wind and Blood: Lever 3 (Top Spire)",
+    "category": "Dungeons",
+    "x": -1530.0,
+    "y": 71.0,
+    "z": -756.0,
+    "coordinates": {
+      "x": -1530.0,
+      "y": 71.0,
+      "z": -756.0
+    },
+    "shard": "King's Valley",
+    "region": "Halls of Wind and Blood",
+    "subregion": "Soultorn Ruins",
+    "context": "Final of 3 progression levers needed to unlock the Cave of Winds. Located on the western side of the topmost shelf (y: 71). WARNING: Pulling this lever immediately spawns two Archaic Guardians nearby!",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "dungeon",
+    "linear": false
+  },
+  "dungeon_halls_of_wind_and_blood_library": {
+    "name": "Halls of Wind and Blood: Offering Robes & Library",
+    "category": "Dungeons",
+    "x": -1406.0,
+    "y": 42.0,
+    "z": -775.0,
+    "coordinates": {
+      "x": -1406.0,
+      "y": 42.0,
+      "z": -775.0
+    },
+    "shard": "King's Valley",
+    "region": "Halls of Wind and Blood",
+    "subregion": "Soultorn Ruins",
+    "context": "Ancient library and offering chamber. Loot the chest at (-1405, 42, -775) and find a set of Offering Robes and a Sacrificial Blade. Beware of trapped chests nearby (-1409, 37, -776).",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "dungeon",
+    "linear": false
+  },
+  "dungeon_halls_of_wind_and_blood_rhella": {
+    "name": "Halls of Wind and Blood: Rhella",
+    "category": "NPCs",
+    "x": -1474.0,
+    "y": 23.0,
+    "z": -795.0,
+    "coordinates": {
+      "x": -1474.0,
+      "y": 23.0,
+      "z": -795.0
+    },
+    "shard": "King's Valley",
+    "region": "Halls of Wind and Blood",
+    "subregion": "Soultorn Ruins",
+    "context": "Expedition survivor NPC stranded in the lower underground caves of the Soultorn Ruins.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "dungeon",
+    "linear": false
+  },
+  "dungeon_halls_of_wind_and_blood_shortcut": {
+    "name": "Halls of Wind and Blood: Return Shortcut Button",
+    "category": "Dungeons",
+    "x": -1467.0,
+    "y": 12.0,
+    "z": -721.0,
+    "coordinates": {
+      "x": -1467.0,
+      "y": 12.0,
+      "z": -721.0
+    },
+    "shard": "King's Valley",
+    "region": "Halls of Wind and Blood",
+    "subregion": "Soultorn Ruins",
+    "context": "Stone shortcut button. Accessible by turning left as soon as you walk out of the spawn stairway once traveled at least once.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "dungeon",
+    "linear": false
+  },
+  "dungeon_halls_of_wind_and_blood_bhairavi_projection": {
+    "name": "Halls of Wind and Blood: Bhairavi's Projection (Midpoint)",
+    "category": "NPCs",
+    "x": -1458.0,
+    "y": 46.0,
+    "z": -900.0,
+    "coordinates": {
+      "x": -1458.0,
+      "y": 46.0,
+      "z": -900.0
+    },
+    "shard": "King's Valley",
+    "region": "Halls of Wind and Blood",
+    "subregion": "Cave of Winds Threshold",
+    "context": "Midpoint projection of Bhairavi guiding players at the threshold leading into the Cave of Winds.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "dungeon",
+    "linear": false
+  },
+  "dungeon_halls_of_wind_and_blood_midpoint": {
+    "name": "Halls of Wind and Blood: Midpoint Checkpoint (~50%)",
+    "category": "Dungeons",
+    "x": -1477.0,
+    "y": 41.0,
+    "z": -948.0,
+    "coordinates": {
+      "x": -1477.0,
+      "y": 41.0,
+      "z": -948.0
+    },
+    "shard": "King's Valley",
+    "region": "Halls of Wind and Blood",
+    "subregion": "Cave of Winds Entrance",
+    "context": "Session checkpoint reached (~50% dungeon clearance). Leads directly into the Cave of Winds quartz/prismarine cavern.",
+    "associated_quests": [
+      "Winds of War"
+    ],
+    "associatedQuests": [
+      "Winds of War"
+    ],
+    "quest_steps": {},
+    "questSteps": {},
+    "plane": "dungeon",
     "linear": false
   }
 }
